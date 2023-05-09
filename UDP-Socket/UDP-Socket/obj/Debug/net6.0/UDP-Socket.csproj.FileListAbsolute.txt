@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\bin\Debug\net6.0\UDP-Socket.exe
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\bin\Debug\net6.0\UDP-Socket.deps.json
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\bin\Debug\net6.0\UDP-Socket.runtimeconfig.json
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\bin\Debug\net6.0\UDP-Socket.dll
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\bin\Debug\net6.0\UDP-Socket.pdb
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.dll
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\refint\UDP-Socket.dll
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.pdb
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\UDP-Socket.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\UDP-Socket\UDP-Socket\obj\Debug\net6.0\ref\UDP-Socket.dll
