@@ -1,0 +1,15 @@
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net6.0\TCP_Socket.exe
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net6.0\TCP_Socket.deps.json
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net6.0\TCP_Socket.runtimeconfig.json
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net6.0\TCP_Socket.dll
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\bin\Debug\net6.0\TCP_Socket.pdb
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.dll
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\refint\TCP_Socket.dll
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.pdb
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\TCP_Socket.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\TCP_Socket\TCP_Socket\obj\Debug\net6.0\ref\TCP_Socket.dll
